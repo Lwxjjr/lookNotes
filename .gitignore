@@ -2,7 +2,6 @@
 
 # 忽略特定的文件夹
 sortspec/
-attachments/
 Excalidraw/
 WorkNedd/
 锁&分布式/
