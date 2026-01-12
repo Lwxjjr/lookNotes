@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "ece67015d852bdad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7947ec1d5d2215ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56c818b05312cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络/TCP是面向字节流协议.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP是面向字节流协议"
+            }
+          },
+          {
+            "id": "cdb83b4b6a52f502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkNeed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WorkNeed"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4627944c3497220",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b4a62825de7667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046f9b3ef0d82ceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1bc1e9381a37a740",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7078bfc772ba89d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "bd096a258cdf2035",
+    "type": "split",
+    "children": [
+      {
+        "id": "348426341cd29ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7339430f4a1c84fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "graph",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "32229b8c6e77a6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "c6bb91dd0cbbfe10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "becfcf95fa499e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "问题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "问题 的大纲"
+            }
+          },
+          {
+            "id": "a3a55388ff0fe4b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "cdb83b4b6a52f502",
+  "lastOpenFiles": [
+    "未命名.md",
+    "WorkNeed.md",
+    "测试 & 后端.md",
+    "架构.md",
+    "牌.md",
+    "投.md",
+    "问题.md",
+    "SQL.md",
+    "Linux/Linux.md",
+    "mysql/日志.md",
+    "Redis/attachments/00ff790d4f6225aaeeebba34a71d8bea-20221015222944-wgv1zv2.webp",
+    "mysql/锁.md",
+    "网络/TCP是面向字节流协议.md",
+    "未命名.base",
+    "网络/TCP握手.md",
+    "网络/TCP／IP网络模型.md",
+    "网络/HTTP.md",
+    "Golang/slice.md",
+    "锁&分布式/单机锁.md",
+    "mysql/事务.md",
+    "mysql/暂时不会.md",
+    "mysql/索引.md",
+    "mysql/数据页.md",
+    "mysql/为什么使用B+树作为索引？.md",
+    "Golang/内存分配 && 垃圾回收.md",
+    "Golang/接口.md",
+    "Golang/反射.md",
+    "Golang/回答.md",
+    "Golang/attachments/Pasted image 20251111134458.jpg",
+    "Golang/attachments/Pasted image 20251111134235.jpg",
+    "Golang/attachments/Pasted image 20251111131335.jpg",
+    "Golang/attachments/Pasted image 20251110230556.jpg",
+    "Golang/attachments/Pasted image 20251110225533.jpg",
+    "Golang/attachments/Pasted image 20251110225215.png",
+    "Golang/attachments/Pasted image 20251110221712.png",
+    "Golang/attachments/Pasted image 20251105110805.png",
+    "网络/attachments/1721710466863-78bf586d-a25c-4fe4-bf27-5dd576b998c8.webp",
+    "未命名",
+    "Redis 5设计与源码分析 - 陈雷.pdf",
+    "attachments/林文翔-后端开发.pdf",
+    "机器学习",
+    "锁&分布式",
+    "machine learning/attachments",
+    "未命名.canvas",
+    "My code file.go",
+    "My code file.ts",
+    "machine learning",
+    "未命名 1.canvas"
+  ]
+}

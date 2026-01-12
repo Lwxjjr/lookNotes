@@ -1,0 +1,26 @@
+# 这是一个注释，Git会忽略它
+
+# 忽略特定的文件夹
+sortspec/
+attachments/
+Excalidraw/
+WorkNedd/
+锁&分布式/
+Rust/
+svelte/
+草/
+
+# 忽略特定的文件
+Redis 5设计与源码分析 - 陈雷.pdf
+Do
+rules
+SQL
+
+# 也可以使用通配符，例如忽略所有 .pdf 文件
+# *.pdf
+
+# 忽略 Mac 系统自动生成的文件夹
+.DS_Store
+
+# 忽略 VS Code 编辑器的配置文件
+.vscode/

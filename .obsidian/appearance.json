@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
+  "interfaceFontFamily": "Consolas",
+  "baseFontSize": 14,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "Warmth"
+  ],
+  "cssTheme": "",
+  "nativeMenus": false
+}

@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1717324442757,
+      "path": "草/周赛反思/单周赛400.md",
+      "subpath": "#*P2* [无需开会的日子]([100311. 无需开会的工作日 - 力扣（LeetCode）](https //leetcode.cn/problems/count-days-without-meetings/description/))",
+      "title": "无需开会的日子"
+    },
+    {
+      "type": "group",
+      "ctime": 1742394209733,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1742394209733,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1742394209733,
+              "path": "Redis/RDB & NoSQL.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\Redis"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
